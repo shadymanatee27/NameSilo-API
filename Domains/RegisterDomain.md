@@ -38,7 +38,7 @@ API Overview
      - Specify a contact ID with requisite .eu information.
     - Passing Contact ID:
      - contact_id: The contact profile ID to assign to this domain.
-     - 
+
 Obtain the contact profile ID via the [ContactList](ContactList.md) command.
 
 Note: A verified credit card or adequate account funds are required to utilize this API.
