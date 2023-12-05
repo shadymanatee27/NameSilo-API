@@ -39,7 +39,7 @@ API Overview
     - Passing Contact ID:
      - contact_id: The contact profile ID to assign to this domain.
      - 
-Obtain the contact profile ID via the ContactList.md command.
+Obtain the contact profile ID via the [ContactList](ContactList.md) command.
 
 Note: A verified credit card or adequate account funds are required to utilize this API.
 
